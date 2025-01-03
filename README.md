@@ -1,11 +1,11 @@
 # ABOUT
 
-This Plugin shows you basic information about player & it will create your own profile like on servers that have "profile" example ~ Hypixel\
+This Plugin shows you basic information about player & it will create your own profile like on servers that have "profile" example ~ Hypixel
 
 ~ Player Information ~ Are basic like (joined, online, left, etc)\
-~ Profile Information ~ The owner of the profile can edit his description & notes so he can add his socialmedia etc (WTIH PERMISSION ~ playerinfo.description.edit)\
+~ Profile Information ~ The owner of the profile can edit his description & notes so he can add his socialmedia etc (WTIH PERMISSION ~ playerinfo.description.edit)
 
-~ This plugin can be useful for deciding if a player should be staff, if the player should earn a rank, or if you want to check the activity of players or staff.\
+~ This plugin can be useful for deciding if a player should be staff, if the player should earn a rank, or if you want to check the activity of players or staff.
 
 # PERMISSION 
 
@@ -17,7 +17,7 @@ This Plugin shows you basic information about player & it will create your own p
 ~ playerinfo.notes.delete -> The player can remove notes on other players\
 ~ playerinfo.notes.edit-> The player can edit a note on other players\
 ~ playerinfo.custom-message -> Allows players to have custom chat messages that display info (If this is enabled in the config)\
-~ playerinfo.custom-message.<format> -> Gives the player the <format> option (Check the config for more details)\
+~ playerinfo.custom-message.<format> -> Gives the player the <format> option (Check the config for more details)
 
 # COMMANDS
 
