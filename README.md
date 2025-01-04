@@ -4,6 +4,7 @@ This Plugin shows you basic information about player & it will create your own p
 
 ~ Player Information ~ Are basic like (joined, online, left, etc)\
 ~ Profile Information ~ The owner of the profile can edit his description & notes so he can add his socialmedia etc (WTIH PERMISSION ~ playerinfo.description.edit)
+~ You can add more stuff / edit them in config
 
 ~ This plugin can be useful for deciding if a player should be staff, if the player should earn a rank, or if you want to check the activity of players or staff.
 
